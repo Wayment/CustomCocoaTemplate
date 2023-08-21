@@ -3,7 +3,8 @@
 import UIKit
 
 class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___, Reusable  {
-        override init(frame: CGRect) {
+
+    override init(frame: CGRect) {
         super.init(frame: frame)
         setupUI()
     }
