@@ -15,6 +15,7 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___, Reusabl
 
 private extension ___FILEBASENAMEASIDENTIFIER___ {
     func setupUI() {
-
+        backgroundColor = .clear
+        contentView.backgroundColor = .clear
     }
 }
