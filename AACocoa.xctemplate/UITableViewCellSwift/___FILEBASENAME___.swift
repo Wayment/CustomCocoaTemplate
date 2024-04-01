@@ -1,6 +1,8 @@
 //___FILEHEADER___
 
 import UIKit
+import MarkhorKit
+
 
 class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___, Reusable {
 
