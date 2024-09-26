@@ -18,5 +18,7 @@ private extension ___FILEBASENAMEASIDENTIFIER___ {
 
     }
 
-    func setupBind()
+    func setupBind() {
+    
+    }
 }
