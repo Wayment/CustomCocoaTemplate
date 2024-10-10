@@ -6,6 +6,12 @@ import MarkhorKit
 
 class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___, Reusable {
 
+    var model: String? {
+        didSet {
+            
+        }
+    }
+
     override init(frame: CGRect) {
         super.init(frame: frame)
         setupUI()
